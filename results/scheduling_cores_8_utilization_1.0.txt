@@ -1,0 +1,48 @@
+Core 0 (sorted by deadline):
+  Task 14 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 5
+  Task 1 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 6
+  Task 17 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 6
+  Task 33 -> Type: soft, Arrival: 8, Start: 8.00, Finish: 13.79, Deadline: 10
+Core 1 (sorted by deadline):
+  Task 27 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 1
+  Task 2 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 15 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 20 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 5
+  Task 21 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 5
+  Task 31 -> Type: soft, Arrival: 4, Start: 4.00, Finish: 8.08, Deadline: 6
+Core 2 (sorted by deadline):
+  Task 3 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 39 -> Type: soft, Arrival: 7, Start: 7.00, Finish: 7.47, Deadline: 9
+Core 3 (sorted by deadline):
+  Task 18 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 3
+  Task 0 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 5
+  Task 37 -> Type: soft, Arrival: 0, Start: 0.00, Finish: 0.50, Deadline: 11
+  Task 38 -> Type: soft, Arrival: 6, Start: 6.00, Finish: 7.90, Deadline: 11
+Core 4 (sorted by deadline):
+  Task 4 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 2
+  Task 19 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 2
+  Task 10 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 25 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 24 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 5
+  Task 9 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 6
+  Task 34 -> Type: soft, Arrival: 5, Start: 5.00, Finish: 5.84, Deadline: 9
+Core 5 (sorted by deadline):
+  Task 5 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 3
+  Task 22 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 3
+  Task 26 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 3
+  Task 12 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 4
+  Task 35 -> Type: soft, Arrival: 4, Start: 4.00, Finish: 4.06, Deadline: 6
+Core 6 (sorted by deadline):
+  Task 6 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 1
+  Task 29 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 1
+  Task 36 -> Type: soft, Arrival: 0, Start: 0.00, Finish: 0.15, Deadline: 3
+  Task 13 -> Type: hard, Start: 0.15, Finish: 0.15, Deadline: 4
+  Task 16 -> Type: hard, Start: 0.15, Finish: 0.15, Deadline: 4
+  Task 8 -> Type: hard, Start: 0.15, Finish: 0.15, Deadline: 5
+  Task 28 -> Type: hard, Start: 0.15, Finish: 0.15, Deadline: 5
+  Task 30 -> Type: soft, Arrival: 3, Start: 3.00, Finish: 3.00, Deadline: 5
+Core 7 (sorted by deadline):
+  Task 11 -> Type: hard, Start: 0.00, Finish: 0.00, Deadline: 1
+  Task 32 -> Type: soft, Arrival: 4, Start: 4.00, Finish: 7.22, Deadline: 5
+  Task 7 -> Type: hard, Start: 7.22, Finish: 7.22, Deadline: 6
+  Task 23 -> Type: hard, Start: 7.22, Finish: 7.22, Deadline: 6
