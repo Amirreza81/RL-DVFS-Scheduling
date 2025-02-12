@@ -32,20 +32,20 @@ This project focuses on **optimizing energy consumption** ⚡ in embedded system
 ## 🖼 **Visuals & Graphs**
 
 <p align="center">
-  <img src="/results/output1_core_8_utilization_1.0.png" width="400">
-  <img src="/results/output2_core_8.png" width="400">
+  <img src="/results/output1_core_8_utilization_1.0.png" width="650">
+  <img src="/results/output2_core_8.png" width="650">
 </p>
 <p align="center">
-  <img src="/results/output3_with_8_cores.png" width="400">
-  <img src="/results/output4_core_16_utilization_1.0.png" width="400">
+  <img src="/results/output3_with_8_cores.png" width="650">
+  <img src="/results/output4_core_16_utilization_1.0.png" width="650">
 </p>
 <p align="center">
-  <img src="/results/output5_cores_8_utilization_0.75.png" width="400">
-  <img src="/results/output7_core_8_utilization_1.0.png" width="400">
+  <img src="/results/output5_cores_8_utilization_0.75.png" width="650">
+  <img src="/results/output7_core_8_utilization_1.0.png" width="650">
 </p>
 <p align="center">
-  <img src="/results/output3_with_16_cores.png" width="400">
-  <img src="/results/output3_with_32_cores.png" width="400">
+  <img src="/results/output3_with_16_cores.png" width="650">
+  <img src="/results/output3_with_32_cores.png" width="650">
 </p>
 
 ---
