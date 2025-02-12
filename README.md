@@ -1,7 +1,7 @@
 # 🚀 **Power Management & Task Scheduling in Real-Time Embedded Systems**  
 
 ## **Project Overview**  
-This project focuses on **optimizing energy consumption** ⚡ in embedded systems with limited resources, such as battery-powered devices. We utilize **reinforcement learning (RL)** 🧠 and **dynamic voltage & frequency scaling (DVFS)** 🔄 to efficiently manage **task scheduling**, ensuring system constraints are met.  
+This project focuses on **optimizing energy consumption** in embedded systems with limited resources, such as battery-powered devices. We utilize **reinforcement learning (RL)** and **dynamic voltage & frequency scaling (DVFS)** to efficiently manage **task scheduling**, ensuring system constraints are met.  
 
 ---
 
