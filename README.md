@@ -1,7 +1,7 @@
 # 🚀 **Power Management & Task Scheduling in Real-Time Embedded Systems**  
 
-## 🔍 **Project Overview**  
-This project focuses on **optimizing energy consumption** ⚡ in embedded systems with limited resources, such as battery-powered devices. We utilize **reinforcement learning (RL)** 🧠 and **dynamic voltage & frequency scaling (DVFS)** 🔄 to efficiently manage **task scheduling**, ensuring system constraints are met ✅.  
+## **Project Overview**  
+This project focuses on **optimizing energy consumption** ⚡ in embedded systems with limited resources, such as battery-powered devices. We utilize **reinforcement learning (RL)** 🧠 and **dynamic voltage & frequency scaling (DVFS)** 🔄 to efficiently manage **task scheduling**, ensuring system constraints are met.  
 
 ---
 
@@ -10,22 +10,22 @@ This project focuses on **optimizing energy consumption** ⚡ in embedded system
 ### **🟢 Phase 1 - Offline Scheduling**  
 📌 Designed an **RL-based model** to optimize task scheduling on multi-core homogeneous systems.  
 📌 Applied **DVFS** to dynamically adjust **voltage & frequency** based on workload.  
-📌 Ensured **Thermal Design Power (TDP)** 🔥 constraints were not violated.  
-📌 Used **Earliest Deadline First (EDF)** ⏳ scheduling for real-time tasks.  
+📌 Ensured **Thermal Design Power (TDP)** constraints were not violated.  
+📌 Used **Earliest Deadline First (EDF)** scheduling for real-time tasks.  
 
 ### **🔵 Phase 2 - Online Scheduling**  
 📌 Integrated **soft aperiodic tasks** dynamically into the system.  
 📌 Developed an **adaptive task mapping strategy** 🗺 for real-time & aperiodic tasks.  
-📌 Optimized **Quality of Service (QoS)** 🎯 while maintaining system constraints.  
+📌 Optimized **Quality of Service (QoS)** while maintaining system constraints.  
 📌 Utilized **Slack Stealing Server** to efficiently handle task scheduling.  
 
 ---
 
 ## 📊 **Results & Deliverables**  
 ✅ Analysis of **task schedulability** under various workloads.  
-✅ Power consumption **trends for each core** ⚡.  
-✅ QoS **evaluation across different system states** 📈.  
-✅ Final **implementation & report** 📝.  
+✅ Power consumption **trends for each core**.  
+✅ QoS **evaluation across different system states**.  
+✅ Final **implementation & report**.  
 
 ---
 
@@ -50,8 +50,7 @@ This project focuses on **optimizing energy consumption** ⚡ in embedded system
 
 ---
 
-### Members
-
-We were a team of two members consisting of the following individuals:
-- [AmirReza Azari](https://github.com/Amirreza81)
-- [Bozorgmehr Zia](https://github.com/BozorgmehrZia)
+## 👥 **Members**  
+We were a team of two members consisting of the following individuals:  
+- [AmirReza Azari](https://github.com/Amirreza81)  
+- [Bozorgmehr Zia](https://github.com/BozorgmehrZia)  
